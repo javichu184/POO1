@@ -1,0 +1,15 @@
+﻿  PlantillasYExcepciones.cpp
+C:\Users\Javier\source\repos\PlantillasYExcepciones\Vector.h(31,2): warning C4154: eliminación de una expresión de matriz; suministrada una conversión a puntero
+  (compilando archivo de origen "PlantillasYExcepciones.cpp")
+  C:\Users\Javier\source\repos\PlantillasYExcepciones\Vector.h(31,2):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Javier\source\repos\PlantillasYExcepciones\PlantillasYExcepciones.cpp(7,19):
+  	Vea la referencia a la creación de una instancia de clase plantilla "Vector<float,5>" que se está compilando
+  	C:\Users\Javier\source\repos\PlantillasYExcepciones\Vector.h(30,1):
+  	al compilar la función del miembro clase plantilla "Vector<float,5>::~Vector(void)"
+  		C:\Users\Javier\source\repos\PlantillasYExcepciones\PlantillasYExcepciones.cpp(7,19):
+  		vea la primera referencia a “Vector<float,5>::~Vector” en “main”
+  
+  Vector.cpp
+  Generando código...
+  PlantillasYExcepciones.vcxproj -> C:\Users\Javier\source\repos\PlantillasYExcepciones\x64\Debug\PlantillasYExcepciones.exe
