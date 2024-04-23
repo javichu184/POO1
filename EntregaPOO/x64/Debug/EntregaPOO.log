@@ -1,0 +1,5 @@
+﻿  EntregaPOO.cpp
+C:\Users\Javier\source\repos\EntregaPOO\EntregaPOO.cpp(11,41): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  FueraRangoMenu.cpp
+  Generando código...
+  EntregaPOO.vcxproj -> C:\Users\Javier\source\repos\Hotel\x64\Debug\EntregaPOO.exe
